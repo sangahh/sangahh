@@ -1,5 +1,5 @@
 ### 안녕하세요 👋
-## Java/Sprng 기반 백엔드 개발을 하고 있는 서상아입니다!
+### Java/Sprng 기반 백엔드 개발을 하고 있는 서상아입니다!
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
