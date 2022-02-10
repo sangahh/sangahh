@@ -1,5 +1,5 @@
 <img align='center' src="https://capsule-render.vercel.app/api?type=waving&text=Hello I am Sangah&animation=fadeIn&fontColor=ffeacd&color=ffe9cd">
-<img align='center' src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img align='center' src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello I am Sangah%20render&fontSize=90" />
 ### 안녕하세요 👋
 ### Java/Sprng 기반 백엔드 개발을 하고 있는 서상아입니다!
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
